@@ -8,6 +8,8 @@ I’m Matheus Gama, I am a Back End Developer.
 <a href="https://www.linkedin.com/in/matheus-gama-50934b232"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <br>
 <br>
+
+  
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
