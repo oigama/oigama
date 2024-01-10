@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-I’m Matheus Gama, I am a Back End Developer.
+I’m Matheus Gama, I'm a Back End Developer.
   
 ⚡ Technologies
 
