@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 I’m Matheus Gama, I'm a Back End Developer.
   
-⚡ Technologies
+⚡ Technologies!
 
 These are some of the technologies and tools that I work with:
 
